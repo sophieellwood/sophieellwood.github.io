@@ -17,9 +17,13 @@ fathomAnalytics = { }
 umamiAnalytics = { }
 selineAnalytics = { }
 buymeacoffee = { }
-verification = { }
+#verification = { }
 rssnext = { }
 advertisement = { }
+
+[verification]
+google = "w4oaXWCfHP_QMRboJjpivtXYt90lpx_nV3fLVemE5RE"
+
 
 [header]
 layout = "basic"
