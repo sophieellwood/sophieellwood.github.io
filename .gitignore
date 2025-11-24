@@ -1,0 +1,6 @@
+public/
+resources/
+.hugo_build.lock
+themes/blowfish/*.lock
+themes/blowfish/exampleSite/
+themes/

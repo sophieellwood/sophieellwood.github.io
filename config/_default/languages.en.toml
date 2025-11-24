@@ -1,0 +1,30 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Sophie Ellwood"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+#[[params.author.links]]
+#email = "mailto:sophie.ellwood@mail.mcgill.ca"
+
+[[params.author.links]]
+github = "https://github.com/sophieellwood"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/sophie-ellwood"
+
+[[params.author.links]]
+google-scholar = "https://scholar.google.com/citations?user=ab6YkAIAAAAJ&hl=en&oi=ao"
+
+
+[params.author]
+name = "Sophie Ellwood"
+image = "headshot.jpeg"
+#headline = "I'm only human"
+bio = ""
