@@ -13,7 +13,7 @@ showHero: false
 
 [Code](https://github.com/sophieellwood/Variational-Autoender-with-Signed-Distance-Functions-Jax/blob/main/VAE_DeepSDF.ipynb)
 
-**Part I**
+**Part I** 
 
 A VAE trained using a convolutional AE and vanilla Decoder. The model uses ELBO loss, consisting of a reconstruction term and KL divergence.
 This model _should_ work with a DeepSDF decoder (included in the code). The decoder should take an input coordinate _in addition to_ 
