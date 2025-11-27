@@ -19,9 +19,9 @@ url = "mailto:sophie.ellwood@mail.mcgill.ca"
   name = "Research"
   pageRef = "Research"
 
-#[[main]]
-#  name = "Projects"
-#  pageRef = "Projects"
+[[main]]
+  name = "Projects"
+  pageRef = "Selected projects"
 
 
 
