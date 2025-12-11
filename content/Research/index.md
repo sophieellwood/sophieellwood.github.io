@@ -9,10 +9,10 @@ showHero: false
 
 
 ## Papers
-1. Syed, T.A.*, **Ellwood, S.**, Dileep, D., Subha, S., Sirajuddin, M., Siddiqi, K. (2025). [Nuclear Patterning of Developing Cells in Murine Ventricular Heart Walls](). In: Chabiniok, R., Zou, Q., Hussain, T., Nguyen, H.H., Zaha, V.G., Gusseva, M. (eds) Functional Imaging and Modeling of the Heart. FIMH 2025. Lecture Notes in Computer Science, vol 15673. Springer, Cham. (Oral presentation, MSc. work)
+1. Syed, T.A.*, **Ellwood, S.**, Dileep, D., Subha, S., Sirajuddin, M., Siddiqi, K. (2025). [Nuclear Patterning of Developing Cells in Murine Ventricular Heart Walls](https://link.springer.com/chapter/10.1007/978-3-031-94562-5_1). In: Chabiniok, R., Zou, Q., Hussain, T., Nguyen, H.H., Zaha, V.G., Gusseva, M. (eds) Functional Imaging and Modeling of the Heart. FIMH 2025. Lecture Notes in Computer Science, vol 15673. Springer, Cham. (Oral presentation, MSc. work)
 
 ## Talks
-1. "How can we improve 3D objects?" MILA 3 Minute Thesis. (November 2025) Montreal, Canada
+1. ["How can we improve 3D objects?"](https://www.youtube.com/watch?v=9hfM1Fq6-Rk&t=1s) MILA 3 Minute Thesis. (November 2025) Montreal, Canada
 
 2. "Improving Neural Signed Distance Functions Near the Medial Axis." (November 2025) Canadian Celebration of Women in Computing. York University, Canada. *Lightning talk*.
 

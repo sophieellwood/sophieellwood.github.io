@@ -1,5 +1,5 @@
 ---
-title: "Variational autoender with Signed Distance Functions (SDFs) in Jax"
+title: "Variational autoencoder with Signed Distance Functions (SDFs) in Jax"
 date: 2025-11-21
 draft: false
 description: "a description"
