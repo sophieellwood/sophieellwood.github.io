@@ -1,5 +1,5 @@
 ---
-title: "RGB-D Facial Reconstruction (Computer Vision final project)"
+title: "RGB-D Facial Reconstruction"
 date: 2025-11-21
 draft: false
 description: "a description"
