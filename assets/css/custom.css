@@ -1,0 +1,5 @@
+/* Show the whole square lord-quas GIF in the landscape card thumbnail, without cropping */
+.thumbnail_card img[src*="/lord-quas/"] {
+  object-fit: contain;
+  background-color: #fff;
+}
